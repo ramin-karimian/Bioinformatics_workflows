@@ -1,0 +1,7 @@
+Data*
+trimmed_*_*_*/
+mpa4*/*.bowtie2.bz2
+mpa4*/*.cmd.log
+mpa4*/sams/
+.idea
+
